@@ -1,0 +1,712 @@
+[
+  {
+    "remarks": "🇩🇪 Германия",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "31.76.119.124",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "qq",
+            "publicKey": "pJpaRasoceUeRDJTXEZNnKT3yW5IocPXudB_B7_rBR0",
+            "serverName": "grr.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "31.56.184.243",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY",
+            "serverName": "nll.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇬🇧 Великобритания",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "31.76.39.158",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "qq",
+            "publicKey": "DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY",
+            "serverName": "ukk.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇪 Эстония",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "138.124.100.64",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY",
+            "serverName": "estonia.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Финляндия",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "149.33.14.241",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "bVeHkS7S3rnN033jazwqKBkzTgnLCiwfApvBSuuK_xQ",
+            "serverName": "fin.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇵🇱 Польша",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "hysteria",
+        "settings": {
+          "address": "pl1.milas.click",
+          "port": 443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "congestion": "bbr",
+              "debug": false,
+              "disablePathMTUDiscovery": false,
+              "initConnectionReceiveWindow": 20971520,
+              "initStreamReceiveWindow": 8388608,
+              "keepAlivePeriod": 10,
+              "maxConnectionReceiveWindow": 20971520,
+              "maxIdleTimeout": 30,
+              "maxIncomingStreams": 1024,
+              "maxStreamReceiveWindow": 8388608
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "pl1.milas.click",
+            "show": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇧🇬 Болгария",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "131.123.39.226",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "qq",
+            "publicKey": "aM4vZdtYChEHhzfzGIxz2yBCr8wsG-SEAY9c2z7-M28",
+            "serverName": "bgg.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇺🇸 США",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "64.49.12.234",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "qq",
+            "publicKey": "DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY",
+            "serverName": "usaa.milas.click",
+            "shortId": "4fa44664f6a566d3",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Россия",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "hysteria",
+        "settings": {
+          "address": "ru.milas.click",
+          "port": 443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "congestion": "bbr",
+              "debug": false,
+              "disablePathMTUDiscovery": false,
+              "initConnectionReceiveWindow": 20971520,
+              "initStreamReceiveWindow": 8388608,
+              "keepAlivePeriod": 10,
+              "maxConnectionReceiveWindow": 20971520,
+              "maxIdleTimeout": 30,
+              "maxIncomingStreams": 1024,
+              "maxStreamReceiveWindow": 8388608
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "ru.milas.click",
+            "show": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 🏴‍☠️ Германия | Резерв #1",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "gr1.milas.click",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "multiMode": false,
+            "serviceName": ""
+          },
+          "network": "grpc",
+          "security": "none"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 📶 Германия | LTE",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "94.183.221.193",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "health_check_timeout": 20,
+            "idle_timeout": 60,
+            "initial_windows_size": 0,
+            "multiMode": false,
+            "permit_without_stream": false,
+            "serviceName": ""
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "chrome",
+            "publicKey": "uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI",
+            "serverName": "google.com",
+            "shortId": "",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇺 LTE Обход (Белые списки) #1",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "176.109.85.84",
+              "port": 7443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "realitySettings": {
+            "fingerprint": "qq",
+            "publicKey": "2g6aoah8fX9KVIXWJy42cVdMxIz2RLsMyI0UlRLgFBs",
+            "serverName": "api-maps.yandex.ru",
+            "shortId": "",
+            "show": false,
+            "spiderX": "/"
+          },
+          "security": "reality",
+          "tcpSettings": {
+            "header": {
+              "type": "none"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇺 LTE Обход (Белые списки) #2",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "app.nowa-game.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "http/1.1"
+            ],
+            "fingerprint": "firefox",
+            "serverName": "app.nowa-game.ru"
+          },
+          "wsSettings": {
+            "headers": {
+              "Host": "app.nowa-game.ru"
+            },
+            "path": "/api/v1/chat/connect"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇺 LTE Обход (Белые списки) #3",
+    "outbounds": [
+      {
+        "mux": {
+          "concurrency": -1,
+          "enabled": false,
+          "xudpConcurrency": 8,
+          "xudpProxyUDP443": ""
+        },
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "app.nowa-game.ru",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "af39e7dc-4a5b-4fc1-9515-18d308764f3a",
+                  "level": 8,
+                  "security": "auto"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "fingerprint": "firefox",
+            "publicKey": "",
+            "serverName": "app.nowa-game.ru",
+            "shortId": "",
+            "show": false,
+            "spiderX": ""
+          },
+          "xhttpSettings": {
+            "extra": {
+              "downloadHTTPMethod": "GET",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Cookie": "session_id=66693f41171e7ad909f9d129861935ac",
+                "Origin": "https://app.nowa-game.ru/",
+                "Referer": "https://app.nowa-game.ru/",
+                "Sec-Fetch-Dest": "empty",
+                "Sec-Fetch-Mode": "cors",
+                "Sec-Fetch-Site": "same-origin",
+                "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:151.0)Gecko/20100101Firefox/151.0"
+              },
+              "mode": "packet-up",
+              "noGRPCHeader": true,
+              "noSSEHeader": true,
+              "path": "/api/v1/gameapi/position.ts",
+              "scMaxBufferedPosts": 100,
+              "scMaxEachPostBytes": 3000000,
+              "scMinPostsIntervalMs": "5-10",
+              "seqKey": "chunk_id",
+              "seqPlacement": "query",
+              "serverMaxHeaderBytes": 32768,
+              "sessionIDKey": "auth",
+              "sessionIDLength": "16-32",
+              "sessionIDPlacement": "query",
+              "sessionIDTable": "Base62",
+              "sessionKey": "auth",
+              "sessionPlacement": "query",
+              "uplinkDataPlacement": "body",
+              "uplinkHTTPMethod": "POST",
+              "xPaddingBytes": "50-150",
+              "xPaddingHeader": "X-Api-Key",
+              "xPaddingMethod": "tokenish",
+              "xPaddingObfsMode": true,
+              "xPaddingPlacement": "header",
+              "xmux": {
+                "maxConcurrency": "1"
+              }
+            },
+            "host": "app.nowa-game.ru",
+            "mode": "packet-up",
+            "path": "/api/v1/gameapi/position.ts/",
+            "scMaxConcurrentPosts": 10,
+            "scMaxEachPostBytes": 1000000,
+            "scMinPostsIntervalMs": 30
+          }
+        }
+      }
+    ]
+  }
+]

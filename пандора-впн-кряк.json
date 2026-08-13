@@ -1,0 +1,3078 @@
+[
+  {
+    "remarks": "🇷🇺 Обход #1 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "81.200.151.81",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #1 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "188.68.218.122",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #1 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "194.87.239.120",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #1 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "77.105.168.88",
+              "port": 44344,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #1 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "79.174.92.10",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "0TK3jhL8U7cKtwt8dolBOY987bVD15vL08x8pMEM428",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #1 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "81.200.151.81",
+              "port": 8443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vqrykX4TTFg3wXm62VdINaZRvhOzSppjHvnNWJ_kFTY",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #1 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "188.68.218.122",
+              "port": 8443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vqrykX4TTFg3wXm62VdINaZRvhOzSppjHvnNWJ_kFTY",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #1 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "194.87.239.120",
+              "port": 8443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vqrykX4TTFg3wXm62VdINaZRvhOzSppjHvnNWJ_kFTY",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #1 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "77.105.168.88",
+              "port": 48443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vqrykX4TTFg3wXm62VdINaZRvhOzSppjHvnNWJ_kFTY",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #1 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "79.174.92.10",
+              "port": 8443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "realitySettings": {
+            "fingerprint": "firefox",
+            "publicKey": "vqrykX4TTFg3wXm62VdINaZRvhOzSppjHvnNWJ_kFTY",
+            "serverName": "max.ru",
+            "shortId": "4640a2f00a8b7e06"
+          },
+          "security": "reality"
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #2 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "81.200.151.81",
+          "port": 44344,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #2 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "188.68.218.122",
+          "port": 44344,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #2 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "194.87.239.120",
+          "port": 44344,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #2 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "77.105.168.88",
+          "port": 44344,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇷🇺 Обход #2 -> Канада | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "79.174.92.10",
+          "port": 44344,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #2 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "81.200.151.81",
+          "port": 48443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #2 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "188.68.218.122",
+          "port": 48443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #2 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "194.87.239.120",
+          "port": 48443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #2 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "77.105.168.88",
+          "port": 48443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #2 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "79.174.92.10",
+          "port": 48443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "10 mbps",
+              "brutalUp": "10 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #3 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "81.200.151.81",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          },
+          "xhttpSettings": {
+            "extra": {
+              "scMaxEachPostBytes": 1000000,
+              "scMinPostsIntervalMs": "100-200",
+              "xmux": {
+                "cMaxReuseTimes": 0,
+                "hKeepAlivePeriod": 0,
+                "hMaxRequestTimes": "1200-1800",
+                "hMaxReusableSecs": "1800-3000",
+                "maxConcurrency": 0,
+                "maxConnections": 3
+              }
+            },
+            "host": "",
+            "mode": "packet-up",
+            "path": "/api/v1/events"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #3 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "188.68.218.122",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data=1.1984vpn.ru"
+          },
+          "xhttpSettings": {
+            "extra": {
+              "scMaxEachPostBytes": 1000000,
+              "scMinPostsIntervalMs": "100-200",
+              "xmux": {
+                "cMaxReuseTimes": 0,
+                "hKeepAlivePeriod": 0,
+                "hMaxRequestTimes": "1200-1800",
+                "hMaxReusableSecs": "1800-3000",
+                "maxConcurrency": 0,
+                "maxConnections": 3
+              }
+            },
+            "host": "",
+            "mode": "packet-up",
+            "path": "/api/v1/events"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #3 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "194.87.239.120",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          },
+          "xhttpSettings": {
+            "extra": {
+              "scMaxEachPostBytes": 1000000,
+              "scMinPostsIntervalMs": "100-200",
+              "xmux": {
+                "cMaxReuseTimes": 0,
+                "hKeepAlivePeriod": 0,
+                "hMaxRequestTimes": "1200-1800",
+                "hMaxReusableSecs": "1800-3000",
+                "maxConcurrency": 0,
+                "maxConnections": 3
+              }
+            },
+            "host": "",
+            "mode": "packet-up",
+            "path": "/api/v1/events"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #3 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "77.105.168.88",
+              "port": 44344,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          },
+          "xhttpSettings": {
+            "extra": {
+              "scMaxEachPostBytes": 1000000,
+              "scMinPostsIntervalMs": "100-200",
+              "xmux": {
+                "cMaxReuseTimes": 0,
+                "hKeepAlivePeriod": 0,
+                "hMaxRequestTimes": "1200-1800",
+                "hMaxReusableSecs": "1800-3000",
+                "maxConcurrency": 0,
+                "maxConnections": 3
+              }
+            },
+            "host": "",
+            "mode": "packet-up",
+            "path": "/api/v1/events"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Обход #3 -> Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "79.174.92.10",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "cfc9439d-9c25-4ef7-88b1-51ad90af970e"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          },
+          "xhttpSettings": {
+            "extra": {
+              "scMaxEachPostBytes": 1000000,
+              "scMinPostsIntervalMs": "100-200",
+              "xmux": {
+                "cMaxReuseTimes": 0,
+                "hKeepAlivePeriod": 0,
+                "hMaxRequestTimes": "1200-1800",
+                "hMaxReusableSecs": "1800-3000",
+                "maxConcurrency": 0,
+                "maxConnections": 3
+              }
+            },
+            "host": "",
+            "mode": "packet-up",
+            "path": "/api/v1/events"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "94.183.206.18",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "94.183.206.18",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "94.183.206.69",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇱 Нидерланды | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "94.183.206.69",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.249.220",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇮 Финляндия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "2.26.91.205",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 Германия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "217.60.99.52",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 Германия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "217.60.99.53",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 Германия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "130.17.10.160",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇪 Германия GAMING",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "213.165.53.19",
+          "port": 443,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "20 mbps",
+              "brutalUp": "20 mbps",
+              "congestion": "brutal"
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "chrome",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇴 Норвегия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.217.169",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇴 Норвегия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.217.169",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇴 Норвегия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.217.156",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇳🇴 Норвегия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.217.156",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇪 Эстония | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.101.198",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇪 Эстония | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.101.198",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇪 Эстония | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.101.195",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇪🇪 Эстония | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.101.195",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇱🇹 Литва | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.75.158",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇱🇹 Литва | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.75.158",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇱🇹 Литва | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.75.136",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇱🇹 Литва | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.75.136",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇧🇪 Бельгия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.219.22",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇧🇪 Бельгия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.219.22",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇧🇪 Бельгия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.219.17",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇧🇪 Бельгия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.219.17",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇭 Швейцария | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "193.151.108.151",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇭 Швейцария | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "193.151.108.151",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇭 Швейцария | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "193.151.108.149",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇭 Швейцария | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "193.151.108.149",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇸🇪 Швеция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "193.23.200.119",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇸🇪 Швеция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "193.23.200.119",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇸🇪 Швеция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "193.23.200.55",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇸🇪 Швеция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "193.23.200.55",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇷 Франция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "213.176.73.194",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇷 Франция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "213.176.73.194",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇷 Франция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "213.176.73.105",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇫🇷 Франция | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "213.176.73.105",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇮🇹 Италия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.73.162",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇮🇹 Италия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.73.162",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇮🇹 Италия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.73.60",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇮🇹 Италия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.73.60",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇰 Дания | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.242.87",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇰 Дания | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.242.87",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇰 Дания | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.242.41",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇩🇰 Дания | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.242.41",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇿 Чехия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "31.76.7.84",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇿 Чехия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "31.76.7.84",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇿 Чехия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "144.31.218.165",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇨🇿 Чехия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "144.31.218.165",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇦🇹 Австрия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.72.137",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇦🇹 Австрия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.72.137",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇦🇹 Австрия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "150.241.72.175",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇦🇹 Австрия | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "150.241.72.175",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇰🇿 Казахстан | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "170.168.34.197",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "multiMode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇰🇿 Казахстан | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "170.168.34.197",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇰🇿 Казахстан | Балансер",
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "45.144.175.115",
+              "password": "BpmoTYsUvyQf8jwTmc8e10G5TRjyey_h",
+              "port": 8080
+            }
+          ]
+        },
+        "streamSettings": {
+          "grpcSettings": {
+            "authority": "",
+            "mode": false,
+            "serviceName": "streaming"
+          },
+          "network": "grpc",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "remarks": "🇰🇿 Казахстан | Балансер",
+    "outbounds": [
+      {
+        "protocol": "hysteria",
+        "settings": {
+          "address": "45.144.175.115",
+          "port": 31568,
+          "version": 2
+        },
+        "streamSettings": {
+          "finalmask": {
+            "quicParams": {
+              "brutalDown": "100 mbps",
+              "brutalUp": "100 mbps",
+              "congestion": "force-brutal",
+              "disablePathMTUDiscovery": true
+            }
+          },
+          "hysteriaSettings": {
+            "auth": "cfc9439d-9c25-4ef7-88b1-51ad90af970e",
+            "version": 2
+          },
+          "network": "hysteria",
+          "security": "tls",
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "enableSessionResumption": false,
+            "fingerprint": "firefox",
+            "serverName": "data-1.1984vpn.ru"
+          }
+        }
+      }
+    ]
+  }
+]
